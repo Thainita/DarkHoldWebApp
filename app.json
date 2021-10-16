@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "DarkHoldWebApp",
+    "slug": "DarkHoldWebApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "DarkHoldWebApp"
+}
